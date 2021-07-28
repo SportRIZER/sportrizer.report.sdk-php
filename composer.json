@@ -1,10 +1,18 @@
 {
-    "name": "sportrizer/apireport",
-    "description": "API client for connectivity to new SportRIZER.report API",
-    "require": {
-        "php": ">=7.4",
-        "guzzlehttp/guzzle": "^7.3",
-        "kevinrob/guzzle-cache-middleware": "^3.4",
-        "chillerlan/php-cache": "^4.1"
+  "name": "sportrizer/apireport",
+  "description": "API client for connectivity to new SportRIZER.report API",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "SportRIZER",
+      "email": "support@sportrizer.com"
     }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.3",
+    "kevinrob/guzzle-cache-middleware": "^3.4",
+    "chillerlan/php-cache": "^4.1"
+  }
 }
