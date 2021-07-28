@@ -10,4 +10,4 @@ composer require sportrizer/apireport
 
 ## Examples
 
-Into examples folders
+Into examples folders : forecastByBounds.php, forecastByCode.php, forecastByLatLng.php
