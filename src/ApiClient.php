@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace SportRIZER\Report;
+namespace Sportrizer\Report;
 
 use chillerlan\SimpleCache\CacheException;
 use GuzzleHttp\Client;
