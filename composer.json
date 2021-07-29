@@ -14,5 +14,10 @@
     "guzzlehttp/guzzle": "^7.3",
     "kevinrob/guzzle-cache-middleware": "^3.4",
     "chillerlan/php-cache": "^4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sportrizer\\Report\\": "src/"
+    }
   }
 }
